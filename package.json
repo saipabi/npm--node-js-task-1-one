@@ -1,0 +1,18 @@
+{
+  "name": "npm--node-js-task-1",
+  "version": "1.0.0",
+  "description": "http using in build function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "SURIYA",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
